@@ -47,6 +47,7 @@ a {
 }
 
 .profile img {
+  background-color: var(--fill-color);
   border: 3px solid var(--stroke-color);
   border-radius: 50%;
   width: 112px;
